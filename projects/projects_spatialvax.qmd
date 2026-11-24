@@ -2,7 +2,7 @@
 title: "Spatial Vaccine Coverage Estimation"
 description: "Geostatistical modeling to explore the migration and immunization interplay."
 date: "2026-11-17"
-categories: [R, Global Health, Immunization]
+categories: [R, Global Health, Biostatistics, Spatial Analysis]
 image: ../images/inla_mesh_plot.png
 ---
 

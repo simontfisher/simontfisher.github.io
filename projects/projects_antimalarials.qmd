@@ -1,0 +1,19 @@
+---
+title: "Antimalarial Safety in Ghanaian Pregnant Women"
+description: "[description]."
+date: "2026-04-19"
+categories: [R, Global Health, Biostatistics]
+# image: ../images/inla_mesh_plot.png
+---
+
+### Overview
+
+...
+
+<br>
+
+### Methods
+
+<br>
+
+### Results

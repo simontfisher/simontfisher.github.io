@@ -1,0 +1,19 @@
+---
+title: "Migration as an Immunization Predictor"
+description: "[description]."
+date: "2026-11-17"
+categories: [R, Global Health, Biostatistics, Spatial Analysis]
+# image: ../images/inla_mesh_plot.png
+---
+
+### Overview
+
+...
+
+<br>
+
+### Methods
+
+<br>
+
+### Results

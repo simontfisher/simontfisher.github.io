@@ -1,0 +1,19 @@
+---
+title: "Outbreak Development in Historical Hong Kong"
+description: "[description]."
+date: "2025-12-01"
+categories: [Global Health, Spatial Analysis]
+# image: ../images/inla_mesh_plot.png
+---
+
+### Overview
+
+...
+
+<br>
+
+### Methods
+
+<br>
+
+### Results
