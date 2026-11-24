@@ -2,7 +2,13 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/projects_spatialvax.html"
+      "/projects/projects_spatialvax.html",
+      "/projects/projects_multidose.html",
+      "/projects/projects_migrationcov.html",
+      "/projects/projects_aki.html",
+      "/projects/project_aki.html",
+      "/projects/projects_antimalarials.html",
+      "/projects/projects_hongkong.html"
     ]
   }
 ]
