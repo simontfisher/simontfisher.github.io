@@ -1,0 +1,32 @@
+/* Override Sandstone's green links */
+a {
+  color: #1d4ed8;
+}
+
+a:hover {
+  color: #1e40af;
+}
+
+/* Override Sandstone's purple inline code (` `) */
+code {
+  color: #0f172a;
+  background-color: #f1f5f9;
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+}
+
+/* Override Sandstone's dark navbar background (optional) */
+.navbar {
+  background-color: #1e293b !important;
+}
+
+/* Override primary buttons (like your CV download button) */
+.btn-primary {
+  background-color: #1d4ed8;
+  border-color: #1d4ed8;
+}
+
+.btn-primary:hover {
+  background-color: #1e40af;
+  border-color: #1e40af;
+}
