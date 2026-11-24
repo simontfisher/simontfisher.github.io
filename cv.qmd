@@ -1,0 +1,320 @@
+---
+title: "CV"
+format:
+  html:
+    theme:
+      - sandstone 
+    linestretch: 1.2
+    css: styles.css
+    toc: true 
+---
+
+---
+title: "Curriculum Vitae"
+toc: true
+toc-location: left
+---
+
+### Education
+
+**Bachelor of Philosophy in Public Health** — University of Pittsburgh, Pittsburgh, PA
+
+**GPA:** 4.0 \| **Expected Graduation:** December 2026
+
+- ***Minors**: Applied Statistics, Economics, and Global Policy; Global Health certificate*
+
+- ***Honors Thesis:** “Zero Doses Left Behind: Geostatistical Estimation of Pediatric Undervaccination in Cambodia”*
+
+- ***Relevant Coursework:** Data Modeling for Biostatistics, Machine Learning for Biostatistics, Foundations of Epidemiology, Applied Sampling, Methods & Practice for Clinical Trials, Time Series Analysis, Health Economics*
+
+<br>
+
+### Research Experience
+
+**University of Pittsburgh School of Public Health — Pittsburgh, PA**
+
+*Independent Thesis Researcher (December 2025 - November 2026)*
+
+*Thesis Advisor: [**Dr. Haley Grant**](https://www.publichealth.pitt.edu/directory/haley-grant) (Dept. of Biostatistics and Health Data Science)*
+
+- Reference statistical reports to clean and analyze Demographic and Health Surveys data from 8,000+ children. 
+
+- Produce fine-scale health service and vaccine accessibility maps with WHO AccessMod software, `leaflet`, and `ggplot2`.
+
+- Build Bayesian geostatistical models with `terra` and `R-INLA`, predicting population, migration, vaccination, and exceedance probability indices in unsampled areas.
+
+- Leverage models to analyze vaccination coverage, locating areas with the greatest gaps in coverage for epidemiological inference.
+
+<br>
+
+**University of Pittsburgh School of Pharmacy — Pittsburgh, PA**
+
+*Biostatistics & Clinical Data Science Research Assistant, MACS/WIHS (May 2026 – Present)*
+
+*Principal Investigator: [**Dr. Aaron Devanathan**](https://www.pharmacy.pitt.edu/people/aaron-s-devanathan) (Dept. of Pharmacy and Therapeutics)*
+
+- Serve as a support statistical analyst for an antiretroviral clinical pharmacology lab, supporting data cleaning, management, and analysis with MACS/WIHS Combined Cohort Study data.
+
+- Apply logistic regression techniquesto quantify the effect of long-term bictegravir and dolutegravir exposure on lipid levels across a dataset of \>100 participants.
+
+- Compare patient outcomes between medication regimens using nonparametric methods with `dunn.test` to isolate chronic antiretroviral waist circumference and metabolic syndrome effects.
+
+<br>
+
+**University of Pittsburgh School of Public Health — Pittsburgh, PA**
+
+*Research Assistant (June 2025 - Present)*
+
+*Principal Investigator: [**Dr. Toan Ha**](https://www.publichealth.pitt.edu/directory/toan-ha) (Dept. of Infectious Diseases and Microbiology)*
+
+- Code qualitative interviews from 25+ female migrant laborers in Vietnam on mental, sexual, and occupational health using Dedoose.
+
+- Perform thematic analysis on 1,000+ excerpts to identify occupational hazards and health risks in industrial zones.
+
+- Lead writing for one occupational health manuscript in preparation; contribute literature reviews and supporting analysis to two additional manuscripts.
+
+<br>
+
+**VinUniversity College of Health Sciences — Hanoi, Vietnam**
+
+*Research Assistant (June 2025 – Present)*
+
+*Principal Investigator: [**Dr. Andrew Taylor-Robinson**](https://vinuni.edu.vn/people/andrew-w-taylor-robinson-phd-2/)*
+
+- Construct directed acyclic graphs to visualize causal mechanisms for dengue prevalence and climate indicators in developing economies.
+
+- Conduct systematic literature review and co-author manuscript with an international research team developing a framework to classify dengue risk in urban Vietnam; submitted for publication.
+
+- Support literature review for peer-reviewed publication: Quan, N. K., & Taylor-Robinson, A. W. (2026). The Second Silent Pandemic: Why Arboviruses Demand an Orchestrated Global Health Response. Pathogens, 15(4), 398. [https://doi.org/10.3390/pathogens15040398](https://doi.org/10.3390/pathogens15040398https://doi.org/10.3390/pathogens15040398). Acknowledged for contributions to the research process.
+
+<br>
+
+**Yale University School of Public Health — New Haven, CT**
+
+*NIH Biostatistics & Data Science Scholar (June 2026 — July 2026)*
+
+*Principal Investigator: [**Dr. Fan Li**](https://www.google.com/search?client=safari&rls=en&q=fan+li+yale&ie=UTF-8&oe=UTF-8) (Dept. of Biostatistics), [**Dr. F. Perry Wilson**](https://medicine.yale.edu/profile/francis-p-wilson/) (Dept. of Nephrology)*
+
+- Independently developed causal inference research project applying Bayesian additive regression trees, classification trees, and survival analysis models with `dbarts` to \> 6,000 observations.
+
+- Estimated temporal effects and subgroup differences within acute kidney injury clinical trial data, analyzing the effect of medical alerts on reducing disease progression and death.
+
+- Completed graduate-level material in clinical trial and experimental design, variable selection, causal inference, and observational bias.
+
+- Selected as 1 of 30 fellows from a pool of \> 1,000 applicants for a competitive NIH-funded biostatistics program at Yale University.
+
+<br>
+
+**University of Pittsburgh School of Computing and Information — Pittsburgh, PA**
+
+*Responsible Data Science Scholar (September 2025 — April 2026)*
+
+- Collaborated with peers to develop an ethical AI usage framework and interactive website for the University of Pittsburgh School of Public Health, defining permitted and prohibited uses of generative AI in research and education.
+
+- Designed and distributed surveys to 100+ public health students to assess AI literacy and inform framework development.
+
+- Presented deliverables to administrative stakeholders and educators across the University of Pittsburgh School of Public Health and other health science departments.
+
+<br>
+
+**University of Pittsburgh World History Center — Pittsburgh, PA**
+
+*Geospatial Data Research Intern (August 2025 — December 2025)*
+
+*Advisor: [**Dr. Priscila da Silva Castanha**](https://www.publichealth.pitt.edu/directory/priscila-da-silva-castanha) (Dept. of Infectious Diseases and Microbiology)*
+
+- Researched Hong Kong's urban demography and public market regulations using geospatial analysis in `ArcGIS Pro` and `ArcGIS Online`.
+
+- Georeferenced historical documents and census records to model demographic change, producing choropleth and density maps to quantify patterns of Chinese migration and urban development.
+
+- Developed [ArcGIS StoryMaps website](https://storymaps.arcgis.com/stories/7522f73d164d4ee284366619c3868f7d) synthesizing census data, historical imagery, original research on Chinese migration, the 1961 influenza pandemic, and urban regulatory policy.
+
+<br>
+
+**Centers for Disease Control and Prevention — Pittsburgh, PA**
+
+*2025 CDC John R. Lewis Scholar, University of Pittsburgh (June 2025 — August 2025)*
+
+*Advisor: [**Dr. Grace Drnach-Bonaventura**](https://www.publichealth.pitt.edu/directory/grace-drnach-bonaventura) (Dept. of Behavioral and Community Health Sciences)*
+
+- Selected as a 2025 CDC John R. Lewis Scholar to conduct independent public health research embedded with a community organization serving low-income residents in Pittsburgh.
+
+- Conducted interviews and focus groups with providers and patrons to identify and evaluate barriers to vaccine access and implementation; visualized findings in `Tableau`.
+
+- Built and analyzed an immunization database in `Excel` to assess vaccination coverage among youth patrons, informing targeted service improvements.
+
+- Coordinated pop-up vaccination and dental clinics serving 70+ pediatric patients, translating data-driven findings into direct community health programming.
+
+<br>
+
+**University of Pittsburgh School of Pharmacy — Pittsburgh, PA**
+
+*Vaccination Services Intern (March 2025 — August 2025)*
+
+*Advisor: [**Dr. Sophia Herbert**](https://www.pharmacy.pitt.edu/people/sophia-m-c-herbert) (Dept. of Pharmacy and Therapeutics)*
+
+- Designed and conducted mixed-methods research project on experiential learning outcomes, performing thematic analysis on survey data from 95 pharmacy and public health students.
+
+- Present findings to professional pharmacists, advising on how similar experiential methods can be implemented in different pharmaceutical training settings.
+
+- Awarded Best Student Abstract in Pharmacy at the American Public Health Association 2025 Annual Meeting and Expo.
+
+<br>
+
+**University of Pittsburgh School of Medicine — Pittsburgh, PA**
+
+*Research Assistant (August 2024 — December 2024)*
+
+*Principal Investigator: [**Dr. Daria Van Tyne**](https://people.dom.pitt.edu/people/daria-van-tyne-phd) (Div. of Infectious Diseases)*
+
+- Researched interactions between antibiotic-resistant bacteria and bacteriophages for clinical applications.
+
+- Assisted in characterizing anti-phage defense systems in vancomycin-resistant Enterococcus faecium using PCR.
+
+<br>
+
+### Honors and Awards
+
+- 2026 University of Pittsburgh David C. Frederick Honors College Winter Commencement Ceremony Student Speaker
+
+- 2026 University of Pittsburgh University Scholar; awarded to students in the top 2% of their class
+
+- 2026 University of Pittsburgh Rhodes, Marshall, and Truman Scholarship Nominee
+
+- 2026 Frederick Honors College Professional Development and Travel Grant; *awarded to present at the American Public Health Association 2026 Annual Meeting & Expo **(\$500)***
+
+- 2026 David C. Frederick University Honors College Scholarship ***(\$4,650)***
+
+- 2026 United Nations Foundation Summit Scholarship ***(\$350)***
+
+- 2025 APHA Best Student Abstract (Pharmacy Section); *awarded for poster at the APHA 2025 Annual Meeting & Expo*
+
+- 2025 Tineke Beelen Global Health Award; *awarded for best case study research in the University of Pittsburgh Suriname Study Abroad Program 2025 **(\$1,000)***
+
+- 2025 Frederick Honors College Professional Development and Travel Grant; *awarded to present at 2025 AMWHO International Conference (**\$750)***
+
+- 2024 Lambda Sigma National Honor Society Inductee; *selected as part of top 50 first-year students at the University of Pittsburgh*
+
+- 2024 Frederick Honors College Professional Development and Travel Grant; *awarded to present at 2024 AMWHO International Conference **(\$750)***
+
+<br>
+
+### Posters & Presentations
+
+- **Fisher, S. T.** (2026, November) *Zero Doses Left Behind: Geostatistical Estimation of Pediatric Undervaccination in Cambodia.* Undergraduate honors thesis defense, University of Pittsburgh School of Public Health, Pittsburgh, PA. (Oral Defense)
+
+- **Fisher, S. T.,** Grant, H. (2026, November). *Identifying Geographic Patterns of Vaccine Dropout in Cambodia: Assessing Migration as a Spatial Predictor.* Presented at the University of Pittsburgh School of Public Health Fall 2026 BSPH Winter Capstone Symposium, Pittsburgh, PA. (Poster Presentation)
+
+- **Fisher, S.T.,** Zhang, L., Pan, C., Hendrickson, Z., & Ha, T. (2026, November). *Women Making Vietnam: Exploring occupational risk in Vietnam’s industrial zones for female migrant workers.* Presented at the American Public Health Association 2026 Annual Meeting & Expo, San Antonio, TX. (Poster Presentation) 
+
+- Pan, C.\*, Zhang, L., **Fisher, S.**, Hendrickson, Z., & Ha, T. (2026, November). *Migration and marriage: Female migrant workers’ mental health and social pressures in Vietnam’s industrial zones.* Presented at the American Public Health Association 2026 Annual Meeting & Expo, San Antonio, TX. (Poster Presentation)
+
+- **Fisher, S. T.,** Grant, H. (2026, October). *Spatial Disparities in Vaccine Series Completion in Cambodia: Assessing the Impact of Migration.* Presented at the University of Pittsburgh Fall 2026 Undergraduate Research and Creative Expression Fair, Pittsburgh, PA. (Poster Presentation)
+
+- **Invited panelist**, “Student Voices: Design and Impact of Experiential Learning.” (2026, October) 2026 Assessment and Teaching Conference, University of Pittsburgh. Pittsburgh, PA.
+
+- Finke, G.\*, **Fisher, S.**\*, Hurwitz, A.\* (2026, July). *Exploring Time Variance and Subgroup Heterogeneity in Acute Kidney Injury Alert Outcomes.* Presented at the Big Data Summer Immersion at Yale Program’s Concluding Symposium. (Oral Presentation)
+
+- Finke, G.\*, **Fisher, S.**\*, Hurwitz, A.\* (2026, July). *Exploring Causal Methods to Assess Time-Sensitive Effects and Hospital Heterogeneity for Acute Kidney Injury Alerts.*Presented at the Big Data Summer Immersion at Yale Program’s Concluding Symposium, New Haven, CT. (Poster Presentation)
+
+- Zhang, L.\*, Pan, C., **Fisher, S.**, Hendrickson, Z., & Ha, T. (2026, April). *Making a Living, Creating Opportunity: Mental Health and Agency Among Female Migrant Workers in Vietnam.* Presented at the Johns Hopkins University Health, Behavior & Society Symposium, Baltimore, MD. (Poster Presentation)
+
+- Camps, E.\*, **Fisher, S.T.**\*, & Seanez, F\*. (2026, March). *Advancing Public HeAIth: Constructing a Responsible AI Usage Tool for Public Health Education.* Presented at the University of Pittsburgh DataSci+AI Forum, Pittsburgh, PA. (Poster Presentation)
+
+- Weiss, J.\*, **Fisher, S.T\*.**, Brownlee, K., Gradisek, A., & Herbert, S. (2026, February). *The Pitt Vaccination and Health Connection Hub: An Interprofessional Model for Pharmacy and Public Health Student Experiential Learning.* Accepted for presentation at the Pennsylvania Pharmacists Association Annual Conference, Harrisburg, PA. Unable to attend due to financial constraints. (Poster Presentation)
+
+- **Fisher, S.T.** (2025, December). *Taking Food as Heaven: Exploring the Intertwined Histories of Street Markets and Disease in Colonial Hong Kong.* Presented at the University of Pittsburgh Digital Atlas Design Showcase, Pittsburgh, PA. (Oral Presentation)
+
+- Weiss, J.\*, **Fisher, S.T.\***, Brownlee, K., Gradisek, A., & Herbert, S. (2025, November). *The Pitt Vaccination and Health Connection Hub: An Interprofessional Model for Pharmacy and Public Health Student Experiential Learning.* Presented at the American Public Health Association 2025 Annual Meeting & Expo, Washington, DC. (Poster Presentation)
+
+- **Fisher, S.T.**, Klatt, P., Sullivan, D., & Drnach-Bonaventura, G. (2025, November). *Bridging the Vaccine Gap: Assessing Barriers to Implementing Immunization Services via Community Development Organizations.* Presented at the American Public Health Association 2025 Annual Meeting & Expo, Washington, DC. (Poster Presentation)
+
+- **Fisher, S.T.**, Klatt, P., Sullivan, D., & Drnach-Bonaventura, G. (2025, November). *Bridging the Vaccine Gap: Assessing Barriers to Implementing Immunization Services via Community Development Organizations.* Presented at the CDC John R. Lewis Undergraduate Public Health Scholars Program at the University of Pittsburgh, Pittsburgh, PA. (Poster Presentation)
+
+\*denotes primary co-authorship
+
+<br>
+
+### Professional Experience
+
+**ONE Campaign — Washington, DC**
+
+*Young Professionals Fellow (June 2026 — Present)*
+
+- Selected for inaugural cohort of the ONE Campaign’s Young Professionals program, focused on professional development and advocacy mentorship for international development campaigns.
+
+- Support national lobbying events focused on improving funding for Africa-oriented global health and economic development programs.
+
+<br>
+
+**United Nations Foundation — (Washington, DC)**
+
+*Global Health College Ambassador (September 2025 — Present)*
+
+- Coordinate on-campus grassroots advocacy events supporting the Shot\@Life and United to Beat Malaria campaigns, mobilizing 30+ students around federal global health funding for vaccines and other infectious disease medications and interventions.
+
+- Facilitate global health advocacy and lobbying training for University of Pittsburgh students, building campus capacity for federal engagement.
+
+- Create and distribute social media content on global health financing issues, amplifying campaign messaging directly to congressional staffers and legislators during lobbying events.
+
+<br>
+
+**Friends of the Global Fight Against AIDS, Tuberculosis and Malaria — Washington, DC**
+
+Data Visualization & Communications Intern (January 2026 — June 2026)
+
+- Introduced `Flourish` data visualization software to global health advocacy workflows, serving as the primary internal resource for the platform.
+
+- Produced interactive charts and maps for the organization’s website, communicating international development financing, infectious disease burden, and pharmaceutical-sector engagement data.
+
+- Analyzed political communications outreach in `Tableau` to identify successes in engaging priority legislators and opportunities to expand partnerships; presented findings to senior stakeholders.
+
+<br>
+
+**University of Pittsburgh University Pharmacy — Pittsburgh, PA**
+
+*Vaccination Services Intern (August 2023 — August 2025)*
+
+- Organized and supervised volunteer staff at a clinic serving 400+ patients weekly, coordinating logistics to support daily operations.
+
+- Managed electronic health records and vaccine records, assisted with travel immunization consultations, and supported clinical management alongside licensed pharmacists.
+
+- Develop vaccine and health education materials for pharmacist and patient usage.
+
+<br>
+
+**Hosanna House Inc. — Wilkinsburg, PA**
+
+Health & Wellness Initiatives Intern (June 2025 — August 2025)
+
+- Conducted community outreach calls to collect and analyze patron health service needs data for private partner reporting.
+
+- Developed needs assessment and systematic review of barriers to vaccine access among youth patrons for utilization in grant applications.
+
+- Coordinated and managed health clinics, including dental, vision, and immunization services.
+
+<br>
+
+### Technical Skills
+
+- **Statistical Programming:** `R`, `Python`, `Stata`, `SAS`
+
+- **Data Visualization:** `Tableau`, `Flourish`, `ggplot2`
+
+- **Data Management:** `tidyverse`, `janitor`
+
+- **Statistical Analysis:** `applied regression` (logistic, Poisson, mixed effects, piecewise, etc.) `survival analysis`, `sampling` (survey design), `time series analysis`, `nonparametric methods`
+
+- **Machine Learning:** `classification` (trees, ensembles, SVM, KNN, Naïve Bayes, discriminant analysis), `unsupervised learning` (dimensionality reduction, clustering)
+
+- **Spatial Analysis:** `R-INLA`, `terra`, `ArcGIS`, `AccessMod`
+
+- **Qualitative Research:** `Dedoose`, qualitative coding, policy analysis, digital journalism
+
+<br>
+
+### Professional Affiliations
+
+- American Public Health Association (2025 — Present)
+
+- Lambda Sigma Honor Society (2024 — Present)

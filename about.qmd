@@ -1,0 +1,12 @@
+---
+title: "About"
+format:
+  html:
+    theme:
+      - sandstone 
+    linestretch: 1.5
+    css: styles.css
+    toc: true 
+---
+
+About this site

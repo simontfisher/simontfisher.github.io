@@ -1,0 +1,20 @@
+---
+title: "About"
+format:
+  html:
+    theme:
+      - sandstone 
+    linestretch: 1.5
+    css: styles.css
+    toc: true    
+---
+
+I am a current fourth-year student at the University of Pittsburgh, completing my Bachelor of Philosophy in Public Health. Along the way, I minored in applied statistics, economics, and global policy while completing a global health certificate.
+
+<img src="simontfisher_github_headshot.JPG" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 250px;"/>
+
+I am deeply passionate about supporting innovation at the intersection of these fields, particularly through the use of biostatistics. I hope to study the safety and efficacy of infectious disease pharmaceuticals, manage global clinical trials, and improve medication access.
+
+My background involves interdisciplinary research with both pharmacists and international teams, perspectives I look to integrate into a career leveraging pharmacoepidemiology and pharmaceutical outcomes research for global health progress.
+
+I am always happy to connect with researchers and industry professionals — I am best reached at `stf58@pitt.edu` or `simonfisher412@gmail.com`.

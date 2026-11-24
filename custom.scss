@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+
+/*-- scss:defaults --*/
+
+// 1. Import Rubik, Roboto, and JetBrains Mono from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,600;1,400&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Rubik:wght@500;600;700&display=swap');
+
+// 2. Assign Fonts
+$headings-font-family: "Rubik", -apple-system, BlinkMacSystemFont, sans-serif;
+$font-family-sans-serif: "Roboto", -apple-system, BlinkMacSystemFont, sans-serif;
+$font-family-monospace: "JetBrains Mono", monospace;
+
+// 3. Page Background & Main Text Colors (keep or adjust your preferred hex codes)
+$body-bg: #f8f7f4;
+$body-color: #1f2937;
+$headings-color: #111827;
+
+// 4. Accent, Link, and Inline Code Colors
+$primary: #1d4ed8;
+$link-color: #1d4ed8;
+$link-hover-color: #1e40af;
+$code-color: #FF6347;
+
+// 5. Navbar Colors
+$navbar-bg: #1e293b;
+$navbar-fg: #f8fafc;
+
+/*-- scss:rules --*/
+
+// Optional: Ensure navbar title and links also use your chosen fonts cleanly
+.navbar-brand {
+  font-family: $headings-font-family;
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 2.25rem;
+  border-bottom: 1px solid #d1d5db;
+  padding-bottom: 0.35rem;
+}

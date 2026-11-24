@@ -1,0 +1,16 @@
+---
+title: "Projects"
+format:
+  html:
+    theme:
+      - sandstone 
+    linestretch: 1.5
+    css: styles.css
+    toc: true
+listing:
+  contents: projects
+  type: grid
+  grid-columns: 2
+  categories: true
+  sort: "date desc"
+---
